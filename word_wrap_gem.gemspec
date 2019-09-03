@@ -9,7 +9,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["katrina@madetech.com"]
 
   spec.summary       = "This gem wraps words to the next line based on the column lengthman rak"
-  #spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "https://github.com/kosiakkatrina/word_wrap_gem"
   spec.license       = "MIT"
 
