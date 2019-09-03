@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/kosiakkatrina/word_wrap_gem"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = 'http://mygemserver.com'
+  spec.metadata["allowed_push_host"] = 'http://rubygems.com'
 
   spec.metadata["homepage_uri"] = "https://github.com/kosiakkatrina/word_wrap_gem"
   spec.metadata["source_code_uri"] = "https://github.com/kosiakkatrina/word_wrap_gem"
