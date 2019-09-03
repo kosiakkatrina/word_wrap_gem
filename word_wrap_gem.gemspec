@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["allowed_push_host"] = 'http://mygemserver.com'
 
-  spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["homepage_uri"] = "https://github.com/kosiakkatrina/word_wrap_gem"
   spec.metadata["source_code_uri"] = "https://github.com/kosiakkatrina/word_wrap_gem"
   spec.metadata["changelog_uri"] = "https://github.com/kosiakkatrina/word_wrap_gem/blob/master/word_wrap_gem/CHANGELOG.md"
 
