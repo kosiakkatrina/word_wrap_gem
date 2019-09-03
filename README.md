@@ -1,8 +1,6 @@
 # WordWrapGem
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/word_wrap_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Word wrap allows to wrap text onto new  lines.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To wrap a text, call wrap function and pass in two arguments, a string, and a column number. The function returns the string, but with line breaks inserted at the places based on the column parameter.
 
 ## Development
 
